@@ -9,4 +9,7 @@ Components used:
 3. Buttons
 4. A powersupply (for portability)
 
+Oled display is connected through: sda = Pin(10) and scl = Pin(15)
+Buttons are connected to Pins 14, 15.
+
 **This project was based on one of my CS Labs, initially coded in java**
